@@ -18,19 +18,11 @@ This project is a social media website built using the MERN (MongoDB, Express.js
 - Follow other users and view their posts on a personalized feed.
 - Like and comment on posts to engage with other users.
 
-## Demo
-
-[Link to Demo](https://gaurav-bhaskar-social-hub.netlify.app/)
 
 ## Setup
 
-1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/gauravbhaskar080/socialhub.git
-   ```
-
-2. **Install dependencies:**
+1. **Install dependencies:**
 
    Navigate to the project directory and run:
 
@@ -43,7 +35,7 @@ This project is a social media website built using the MERN (MongoDB, Express.js
    npm install
    ```
 
-3. **Set up MongoDB:**
+2. **Set up MongoDB:**
 
    - Create a `.env` file in the server directory and add your MongoDB URL:
 
